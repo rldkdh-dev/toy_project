@@ -1,0 +1,5 @@
+import org.springframework.core.SpringProperties
+
+rootProject.name = 'toy_ygseol'
+
+rootProject.setProjectDir '/webapps'
